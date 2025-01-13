@@ -4,7 +4,7 @@ Robot zna odległość od celu oraz swoją pozycję w środowisku, dzięki odome
 
 1. Wykonujemy ruch robotem do zebrania pomiarów i wyznaczenia pozycji celu
 Subscriptions:
-● /odom
+● /odom \
 ● /distance
 Published Topics:
 ● /goal_pose
